@@ -52,8 +52,11 @@ If you use this this repository, please cite the following paper:
 
 
 > **Kseniya Belousova, Zilya Badrieva, Iuliia Pisareva, Nikita Babich, Dmitriy Agapov, Olga Pavlova, Ekaterina Brui, Walid Al-Haidri**
+> 
 > *Deep learning-based generation of a digital MRI brain phantom*
+> 
 > Book of Abstracts ESMRMB 2025 Online 41st Annual Scientific Meeting 8–11 October 2025. Magn Reson Mater Phy (2025).
+> 
 > https://doi.org/10.1007/s10334-025-01278-8
 
 
